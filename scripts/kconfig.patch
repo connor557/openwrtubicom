@@ -1,7 +1,7 @@
 diff --git a/kconfig/zconf.gperf b/kconfig/zconf.gperf
 index c9e690e..d758a2a 100644
---- a/kconfig/zconf.gperf
-+++ b/kconfig/zconf.gperf
+--- a/config/zconf.gperf
++++ b/config/zconf.gperf
 @@ -7,6 +7,15 @@
  %pic
  %struct-type
